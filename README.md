@@ -1,2 +1,2 @@
 # google_keep_clone
-Created with CodeSandbox
+A clone of google keep  created using react.
